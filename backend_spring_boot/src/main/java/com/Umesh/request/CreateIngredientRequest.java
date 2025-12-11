@@ -1,0 +1,11 @@
+package com.Umesh.request;
+
+import lombok.Data;
+
+@Data
+public class CreateIngredientRequest {
+
+    private Long restaurantId;
+    private String name;
+    private Long ingredientCategoryId;
+}
