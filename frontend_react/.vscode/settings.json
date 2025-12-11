@@ -1,0 +1,6 @@
+{
+    "salesforcedx-vscode-slds.basic.designToken": true,
+    "markdown.copyFiles.destination": {
+        "salesforcedx-vscode-lightning.sldsValidation": ""
+    }
+}
